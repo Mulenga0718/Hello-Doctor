@@ -10,7 +10,6 @@ public class AdminVO implements Serializable{
 
 private String	adminId;
 private String	pwd;
-//
 public String getAdminId() {
 	return adminId;
 }
